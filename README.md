@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Marcos Biano 😁
+## Oiii eu sou o Marcos Biano, Estudante de programação e tecnologia! 😁
 
  <div>
    <a href="https://github.com/MarcosBiano">
