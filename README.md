@@ -1,4 +1,4 @@
-## Oiii eu sou o Marcos Biano, Estudante de programação e tecnologia! 😁
+## Opaa eu sou o Marcos Biano, Estudante de programação e tecnologia! 😁
 
  <div>
    <a href="https://github.com/MarcosBiano">
